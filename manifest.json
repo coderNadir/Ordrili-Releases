@@ -1,0 +1,21 @@
+{
+  "hub": {
+    "versionName": "1.1.0",
+    "releasedAt": "2026-08-07T00:00:00Z",
+    "releaseNotes": "First public release — your restaurant's own server. Orders keep flowing with no internet and everything syncs to the cloud when the connection returns. Pair it from the Devices screen.",
+    "files": {
+      "mac": "Ordrili-Hub-mac.dmg",
+      "windows": null
+    }
+  },
+  "spot": {
+    "versionName": "1.1.0",
+    "releasedAt": "2026-08-07T00:00:00Z",
+    "releaseNotes": "First public release — one app for every device in the restaurant: self-order kiosk, table tablet, waiter phone, kitchen screen and TV board. Finds your Ordrili Hub automatically on the restaurant Wi-Fi.",
+    "files": {
+      "android": "Ordrili-Spot-android.apk",
+      "mac": "Ordrili-Spot-mac.dmg",
+      "windows": null
+    }
+  }
+}
