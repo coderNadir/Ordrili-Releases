@@ -1,6 +1,8 @@
 {
   "hub": {
     "versionName": "1.3.1",
+    "versionCode": 1003001,
+    "minSupportedVersionCode": null,
     "releasedAt": "2026-08-17T00:00:00Z",
     "releaseNotes": "Stability and protection update — fixes a rare freeze when reopening the app while signed in, starts up smoothly while the restaurant server boots, stronger protection against abuse, and clearer error messages with one-tap retry on every screen.",
     "files": {
@@ -10,6 +12,8 @@
   },
   "spot": {
     "versionName": "1.3.1",
+    "versionCode": 1003001,
+    "minSupportedVersionCode": null,
     "releasedAt": "2026-08-17T00:00:00Z",
     "releaseNotes": "Stability update — devices keep their pairing through connection blips and hub restarts, friendlier error messages with one-tap retry everywhere, and fixed adding items to an order on some networks.",
     "files": {
