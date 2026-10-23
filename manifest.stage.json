@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.2",
-    "versionCode": 1006002,
+    "versionName": "1.6.3",
+    "versionCode": 1006003,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-23T11:38:07.308Z",
-    "releaseNotes": "Stage 1.6.2: the Hub now updates itself inside the app (progress bar, installs and restarts on its own) instead of downloading the installer in the browser.",
-    "tag": "v1.6.2-stage",
+    "releasedAt": "2026-10-23T11:57:59.895Z",
+    "releaseNotes": "Stage 1.6.3: test release for the in-app updater (updater signing fix). Update now should download, install and restart the Hub on its own.",
+    "tag": "v1.6.3-stage",
     "files": {
       "mac": null,
-      "windows": "Ordrili-Hub-windows-stage-1.6.2-setup.exe"
+      "windows": "Ordrili-Hub-windows-stage-1.6.3-setup.exe"
     }
   },
   "spot": {
