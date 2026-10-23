@@ -1,11 +1,11 @@
 {
-  "version": "1.6.4",
-  "notes": "Stage 1.6.4: you stay signed in after closing and reopening the Hub; the Apps page flags an out-of-date Hub with an Update now button.",
-  "pub_date": "2026-10-23T20:02:08.513Z",
+  "version": "1.6.5",
+  "notes": "Stage 1.6.5: reopening the Hub no longer lands on the login page; it waits for its own server to start.",
+  "pub_date": "2026-10-23T20:50:56.418Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQys2Yk9VZ0dsNmFvU1lUeXBzOFY0TElldy9ZRS9SdjE5QzYyNTE3T21Wa3RuUWRTa1NGQXBGM3l6S0J3MG56dkcwOEtXZTZiN2g2amRkQ09GWXN5RFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxMjUwCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjRfeDY0LXNldHVwLmV4ZQpYWkRLelpsT0xSUHFuN3dqZWF3MHRBOHZSN3FTU2JHaGc3VEJpdU04Y2Q0NFlIWnp0UkxWUXh3bmREOUxqb0tJdkx1QkdvSTIyYkVHSkIwU0E0aDlDUT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.4-stage/Ordrili-Hub-windows-stage-1.6.4-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQytlenJIU1Iwa2ZHMkxlWVRzUkNHTHhLeTdrclJBQUNaSFc2Tkk0cE40RkpxdjRJYmp4ZkVFUCtUWkdPQnVsYStQenU0Rm93aXZpeGNCQ2JQcUtlTEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg4MzE4CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjVfeDY0LXNldHVwLmV4ZQoxMWZVUURFQ3YwTHY2QnkrOGNwL0lYaVZxRVR3WVAzRmJCZGZ2cW9kUWltNVYzc1lYOGl3VmFlYytMek9iNkRyWG42cEVmYkJ6aGgrOWM4RUxtd1NEUT09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.5-stage/Ordrili-Hub-windows-stage-1.6.5-setup.exe"
     }
   }
 }
