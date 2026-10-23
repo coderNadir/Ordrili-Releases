@@ -1,11 +1,11 @@
 {
-  "version": "1.6.5",
-  "notes": "Stage 1.6.5: reopening the Hub no longer lands on the login page; it waits for its own server to start.",
-  "pub_date": "2026-10-23T20:50:56.418Z",
+  "version": "1.6.6",
+  "notes": "Stage 1.6.6: Profit counts paid orders; Payments finds earlier days + Unpaid tab; Take payment from the order page.",
+  "pub_date": "2026-10-23T21:58:41.260Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQytlenJIU1Iwa2ZHMkxlWVRzUkNHTHhLeTdrclJBQUNaSFc2Tkk0cE40RkpxdjRJYmp4ZkVFUCtUWkdPQnVsYStQenU0Rm93aXZpeGNCQ2JQcUtlTEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg4MzE4CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjVfeDY0LXNldHVwLmV4ZQoxMWZVUURFQ3YwTHY2QnkrOGNwL0lYaVZxRVR3WVAzRmJCZGZ2cW9kUWltNVYzc1lYOGl3VmFlYytMek9iNkRyWG42cEVmYkJ6aGgrOWM4RUxtd1NEUT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.5-stage/Ordrili-Hub-windows-stage-1.6.5-setup.exe"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3hQMHlxSk5DdXY4TjJCL2FodERJcnNPSURZQTZWalRQNFMvRzZlVCt0OVAyUWhvUEZOR3QxVzNOSlF0V2lzR2RpOVVxT01lOEUybEw3dXRSK2J2c2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkyNjY1CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negpGenJic1VxOUdSL0FqY05SRm1adFh1bUUyTU9VcTJBeFA1Yi9udXlhOWhyS1N3bnFOSlpSeE1MU0lJTnVhc2tVeWI0ckJIR2p4bXQvYU15SjJhU1pBZz09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.6-stage/Ordrili-Hub-mac-stage-1.6.6.app.tar.gz"
     }
   }
 }
