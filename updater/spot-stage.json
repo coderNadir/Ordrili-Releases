@@ -1,0 +1,11 @@
+{
+  "version": "1.6.6",
+  "notes": "Stage 1.6.6: Profit counts paid orders; Payments finds earlier days + Unpaid tab; Take payment from the order page.",
+  "pub_date": "2026-10-23T22:00:05.726Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3h6WUJzVXdDUG1pSTV0ZHVzZ1FYaTdFQ01jM1RSWTI2WTNzZ0hHdjVoYyt2TFRZMG8vRlFzME9td1I1Q3lUa0hBdlJ5cUdJTHRxME5ZVjhGWXZrcXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkyNzkzCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKYXErNC9OcDhHNWVhMWZ1RFk4bTFsdFRtNkhYdnlscVFNdUpxV2xjdnlaUWdTZWlSemhIY1g1Q2JKM2FXY3h1T2FhMEF5VnpOUlhTdGhhT1RHbmJwQXc9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.6-stage/Ordrili-Spot-mac-stage-1.6.6.app.tar.gz"
+    }
+  }
+}
