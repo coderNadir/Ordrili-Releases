@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.5",
-    "versionCode": 1006005,
+    "versionName": "1.6.6",
+    "versionCode": 1006006,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-23T20:50:56.975Z",
-    "releaseNotes": "Stage 1.6.5: reopening the Hub no longer lands on the login page; it waits for its own server to start.",
-    "tag": "v1.6.5-stage",
+    "releasedAt": "2026-10-23T21:58:41.718Z",
+    "releaseNotes": "Stage 1.6.6: Profit counts paid orders; Payments finds earlier days + Unpaid tab; Take payment from the order page.",
+    "tag": "v1.6.6-stage",
     "files": {
-      "mac": null,
-      "windows": "Ordrili-Hub-windows-stage-1.6.5-setup.exe"
+      "mac": "Ordrili-Hub-mac-stage-1.6.6.dmg",
+      "windows": null
     }
   },
   "spot": {
