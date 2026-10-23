@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.0",
-    "versionCode": 1006000,
+    "versionName": "1.6.1",
+    "versionCode": 1006001,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-20T15:20:23.919Z",
-    "releaseNotes": "Stage 1.6.0: tables show live order counts with card / floor-grid / compact layouts, New Order layouts (Split / Steps / Grid), kitchen-by-printed-ticket, subscription page, guide page, offline mode indicator, AI item draft + photo tools, Windows Hub/Spot installers.",
-    "tag": "v1.6.0-stage",
+    "releasedAt": "2026-10-23T10:27:59.712Z",
+    "releaseNotes": "Stage 1.6.1: Payment records (P-numbers, History, edit/void, refunds, Profit net revenue), billing logos and payment proofs load on the Hub, hidden Logs page and calmer offline toasts, quantity stepper for items with options, Tables occupancy detail.",
+    "tag": "v1.6.1-stage",
     "files": {
       "mac": null,
-      "windows": "Ordrili-Hub-windows-stage-1.6.0-setup.exe"
+      "windows": "Ordrili-Hub-windows-stage-1.6.1-setup.exe"
     }
   },
   "spot": {
