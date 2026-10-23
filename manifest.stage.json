@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.4",
-    "versionCode": 1006004,
+    "versionName": "1.6.5",
+    "versionCode": 1006005,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-23T20:02:09.028Z",
-    "releaseNotes": "Stage 1.6.4: you stay signed in after closing and reopening the Hub; the Apps page flags an out-of-date Hub with an Update now button.",
-    "tag": "v1.6.4-stage",
+    "releasedAt": "2026-10-23T20:50:56.975Z",
+    "releaseNotes": "Stage 1.6.5: reopening the Hub no longer lands on the login page; it waits for its own server to start.",
+    "tag": "v1.6.5-stage",
     "files": {
       "mac": null,
-      "windows": "Ordrili-Hub-windows-stage-1.6.4-setup.exe"
+      "windows": "Ordrili-Hub-windows-stage-1.6.5-setup.exe"
     }
   },
   "spot": {
