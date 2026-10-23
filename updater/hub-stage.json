@@ -1,11 +1,11 @@
 {
-  "version": "1.6.3",
-  "notes": "Stage 1.6.3: test release for the in-app updater (updater signing fix). Update now should download, install and restart the Hub on its own.",
-  "pub_date": "2026-10-23T11:57:59.378Z",
+  "version": "1.6.4",
+  "notes": "Stage 1.6.4: you stay signed in after closing and reopening the Hub; the Apps page flags an out-of-date Hub with an Update now button.",
+  "pub_date": "2026-10-23T20:02:08.513Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQytOVm56NFQ2cXp3N1RHK0R1YkZzbmQ4OUFvUXE4d1lnZjIvSUZRZSt4QzlZYlpEd29sd3RyTjVidXc5WTJzVGdXNmlGOEZmcXc5NUlEREJFcHMyU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU2NjQ0CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjNfeDY0LXNldHVwLmV4ZQppbi9SMnF1UmFFbi9yaEZReEx2ejdGUm9vL3dMTkdySHQwT3E1WmpCM21scDhrcHpHOGhYRzlEY056N1FpUzJTK1haKzBGaTgydXIxNnd3T2dybUVCQT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.3-stage/Ordrili-Hub-windows-stage-1.6.3-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQys2Yk9VZ0dsNmFvU1lUeXBzOFY0TElldy9ZRS9SdjE5QzYyNTE3T21Wa3RuUWRTa1NGQXBGM3l6S0J3MG56dkcwOEtXZTZiN2g2amRkQ09GWXN5RFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxMjUwCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjRfeDY0LXNldHVwLmV4ZQpYWkRLelpsT0xSUHFuN3dqZWF3MHRBOHZSN3FTU2JHaGc3VEJpdU04Y2Q0NFlIWnp0UkxWUXh3bmREOUxqb0tJdkx1QkdvSTIyYkVHSkIwU0E0aDlDUT09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.4-stage/Ordrili-Hub-windows-stage-1.6.4-setup.exe"
     }
   }
 }
