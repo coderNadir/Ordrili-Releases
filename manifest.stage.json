@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.1",
-    "versionCode": 1006001,
+    "versionName": "1.6.2",
+    "versionCode": 1006002,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-23T10:27:59.712Z",
-    "releaseNotes": "Stage 1.6.1: Payment records (P-numbers, History, edit/void, refunds, Profit net revenue), billing logos and payment proofs load on the Hub, hidden Logs page and calmer offline toasts, quantity stepper for items with options, Tables occupancy detail.",
-    "tag": "v1.6.1-stage",
+    "releasedAt": "2026-10-23T11:38:07.308Z",
+    "releaseNotes": "Stage 1.6.2: the Hub now updates itself inside the app (progress bar, installs and restarts on its own) instead of downloading the installer in the browser.",
+    "tag": "v1.6.2-stage",
     "files": {
       "mac": null,
-      "windows": "Ordrili-Hub-windows-stage-1.6.1-setup.exe"
+      "windows": "Ordrili-Hub-windows-stage-1.6.2-setup.exe"
     }
   },
   "spot": {
