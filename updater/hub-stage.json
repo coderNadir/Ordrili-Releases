@@ -1,11 +1,11 @@
 {
-  "version": "1.6.6",
-  "notes": "Stage 1.6.6: Profit counts paid orders; Payments finds earlier days + Unpaid tab; Take payment from the order page.",
-  "pub_date": "2026-10-23T21:58:41.260Z",
+  "version": "1.6.7",
+  "notes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
+  "pub_date": "2026-10-24T16:35:11.911Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3hQMHlxSk5DdXY4TjJCL2FodERJcnNPSURZQTZWalRQNFMvRzZlVCt0OVAyUWhvUEZOR3QxVzNOSlF0V2lzR2RpOVVxT01lOEUybEw3dXRSK2J2c2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkyNjY1CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negpGenJic1VxOUdSL0FqY05SRm1adFh1bUUyTU9VcTJBeFA1Yi9udXlhOWhyS1N3bnFOSlpSeE1MU0lJTnVhc2tVeWI0ckJIR2p4bXQvYU15SjJhU1pBZz09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.6-stage/Ordrili-Hub-mac-stage-1.6.6.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3d5OEwxZnhWTlNEVFB2UXhUVlZrODJVVnF4d3VCRW1FQzBDR2oxMGtZalNiL3BZTUg1RVhJdERlUHkrbENSbExsaktmU2hUQlZwZEtONG54NlNkdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5NjM3CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negp6bXhvbjBrZk5EV0tXek0ySmMxcklIeVd2L1NNKzhHYlEvZDhzNnBDemo2RWpYYXVxelU0Z3pMTGNxN1RwUVVpcVc1Mnkxc3hMbDFzSXRkdVpyL1RDQT09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.7-stage/Ordrili-Hub-mac-stage-1.6.7.app.tar.gz"
     }
   }
 }
