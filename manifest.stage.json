@@ -12,15 +12,15 @@
     }
   },
   "spot": {
-    "versionName": "1.6.6",
-    "versionCode": 1006006,
+    "versionName": "1.6.7",
+    "versionCode": 1006007,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-23T22:00:06.552Z",
-    "releaseNotes": "Stage 1.6.6: Profit counts paid orders; Payments finds earlier days + Unpaid tab; Take payment from the order page.",
-    "tag": "v1.6.6-stage",
+    "releasedAt": "2026-10-24T16:36:33.567Z",
+    "releaseNotes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
+    "tag": "v1.6.7-stage",
     "files": {
       "android": null,
-      "mac": "Ordrili-Spot-mac-stage-1.6.6.dmg",
+      "mac": "Ordrili-Spot-mac-stage-1.6.7.dmg",
       "windows": null
     }
   }
