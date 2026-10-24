@@ -8,7 +8,7 @@
     "tag": "v1.6.7-stage",
     "files": {
       "mac": "Ordrili-Hub-mac-stage-1.6.7.dmg",
-      "windows": null
+      "windows": "Ordrili-Hub-windows-stage-1.6.7-setup.exe"
     }
   },
   "spot": {
