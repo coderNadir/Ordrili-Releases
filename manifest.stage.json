@@ -19,7 +19,7 @@
     "releaseNotes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
     "tag": "v1.6.7-stage",
     "files": {
-      "android": null,
+      "android": "Ordrili-Spot-android-stage-1.6.7.apk",
       "mac": "Ordrili-Spot-mac-stage-1.6.7.dmg",
       "windows": "Ordrili-Spot-windows-stage-1.6.7-setup.exe"
     }
