@@ -1,15 +1,11 @@
 {
-  "version": "1.6.7",
-  "notes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
-  "pub_date": "2026-10-24T16:54:07.505Z",
+  "version": "1.6.8",
+  "notes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
+  "pub_date": "2026-10-26T20:34:35.100Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3hCaE1kWGF6NFBMVTY3MkJNZlVlekgzLzJvdkRLUDlrYnU2cXJGemFQWlExTm9JNVZUR01jdHNOakFqaTZqRStMdzVJYWxKTlpFOXNVRmtNenI1Z1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5NzgxCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKc3pzV3BGWkdaUnVLUFNFT2NkVVY1d3RTQXdMNHR0OTk3TnJFdS9md201RE9YNGZmbnFaQWxIUmJiOHJlU2VrSTFobFJEallJZUdUd0ZVYnBjZnZmQUE9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.7-stage/Ordrili-Spot-mac-stage-1.6.7.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzFpdkdyRUd0bWdVZTk0VDBwNTMwZEt0WUhxaTlpVTc5NXNuODR0RG1tdzlkWG50YUJUQVc0dXZsVWxzQ2pqUmIrS1JZNVcyWFhZVk9VZ1JwM0lqZHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYwODE0CWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlXzEuNi43X3g2NC1zZXR1cC5leGUKSDN1TXhENDk4TmtVeUV0VjVGMUZSeFlIcTZ5NFdlemcvaWNZNHhjcUJ0L2w0ZXVFQ29CZGVIbFYyWXhKNzU0b3dOdXlmQk9aNGVNZlBFdHRVWWZNRGc9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.7-stage/Ordrili-Spot-windows-stage-1.6.7-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQy8xWE4vMDcxSzVOVUIrYUo4YldYRUlSeXdSY21uU2ZLQUZrRGV6QzR3RlZZRk1qcFBoZFlLRE45c3NXT1ZoVkJsNDFDV3VSYmVXOE5BaFRBQkREc0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ2ODI2CWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKeU1GSTcvdjVtUmRweVZ4TkFPVHBaV3A1MTBXUzVwMUxPL2FJQzFMY1Nvb2xBQ0U0MVBqT2FYNG1kYjkwMG1iOEM1TW96MGxBTmhSMGE5bU10WldIQUE9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Spot-mac-stage-1.6.8.app.tar.gz"
     }
   }
 }
