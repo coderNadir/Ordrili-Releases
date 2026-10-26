@@ -12,16 +12,16 @@
     }
   },
   "spot": {
-    "versionName": "1.6.7",
-    "versionCode": 1006007,
+    "versionName": "1.6.8",
+    "versionCode": 1006008,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-24T16:36:33.567Z",
-    "releaseNotes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
-    "tag": "v1.6.7-stage",
+    "releasedAt": "2026-10-26T20:34:35.578Z",
+    "releaseNotes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
+    "tag": "v1.6.8-stage",
     "files": {
-      "android": "Ordrili-Spot-android-stage-1.6.7.apk",
-      "mac": "Ordrili-Spot-mac-stage-1.6.7.dmg",
-      "windows": "Ordrili-Spot-windows-stage-1.6.7-setup.exe"
+      "android": null,
+      "mac": "Ordrili-Spot-mac-stage-1.6.8.dmg",
+      "windows": null
     }
   }
 }
