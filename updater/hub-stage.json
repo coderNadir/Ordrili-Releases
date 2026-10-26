@@ -1,11 +1,15 @@
 {
   "version": "1.6.8",
-  "notes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
-  "pub_date": "2026-10-26T20:40:49.785Z",
+  "notes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page, Windows Hub: phones can find it by search again",
+  "pub_date": "2026-10-26T21:07:44.338Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzFCODlPS0hsZmY2dHpJb1hHcGNjVFRsd20ydm9YQWNHbTdRTy9hRnFFU0tRYnFEU2hYZkVRbUhwRDBhdWxNUHIyZXcwcmJGNm8vbE5EMnV1eTROS2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3MTMxCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negpXZUZ5WVhCYWoyV3RKZTd6WXkwSTRKVmRlM3dPd0dVL1kxTDhvVC9PQXJ2MzRvekFoVVYyU0UrMkFscU1nLzE1TmNWUVpLckQ2ZmlBdHZjMXNqZThCZz09Cg==",
       "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Hub-mac-stage-1.6.8.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3hjZjJHQ1dTNTJvdXlScVYxSEhjNkZkcXNQREN1UVZyTnVEREUzSDJDYzVSd0FkOTZKTDhUbS9qRXN0Rld2SUNVdmg2eG0vMFpEbDJFK0w1LzVwTUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ4ODM4CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjhfeDY0LXNldHVwLmV4ZQpQTmlFUGNTeG9ib3A5Rms4RDFETDkzbklxc2lVZmsvQlU5b2s3VG8zaGJvV0JzQk1UTS9JeWQyOGNpL3lTdHI0TlNXNzVPazViaWxxZDNWT1paNTRCZz09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Hub-windows-stage-1.6.8-setup.exe"
     }
   }
 }
