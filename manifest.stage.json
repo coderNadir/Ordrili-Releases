@@ -19,7 +19,7 @@
     "releaseNotes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
     "tag": "v1.6.8-stage",
     "files": {
-      "android": null,
+      "android": "Ordrili-Spot-android-stage-1.6.8.apk",
       "mac": "Ordrili-Spot-mac-stage-1.6.8.dmg",
       "windows": null
     }
