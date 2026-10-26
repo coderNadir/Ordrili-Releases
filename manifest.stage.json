@@ -21,7 +21,7 @@
     "files": {
       "android": "Ordrili-Spot-android-stage-1.6.8.apk",
       "mac": "Ordrili-Spot-mac-stage-1.6.8.dmg",
-      "windows": null
+      "windows": "Ordrili-Spot-windows-stage-1.6.8-setup.exe"
     }
   }
 }
