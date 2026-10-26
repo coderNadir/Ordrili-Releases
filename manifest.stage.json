@@ -4,11 +4,11 @@
     "versionCode": 1006008,
     "minSupportedVersionCode": null,
     "releasedAt": "2026-10-26T20:40:50.253Z",
-    "releaseNotes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
+    "releaseNotes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page, Windows Hub: phones can find it by search again",
     "tag": "v1.6.8-stage",
     "files": {
       "mac": "Ordrili-Hub-mac-stage-1.6.8.dmg",
-      "windows": null
+      "windows": "Ordrili-Hub-windows-stage-1.6.8-setup.exe"
     }
   },
   "spot": {
