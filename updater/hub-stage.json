@@ -1,15 +1,11 @@
 {
-  "version": "1.6.7",
-  "notes": "Stage 1.6.7: one tap = one print, refund amount keypad, payments default to cash, full-width Payments tabs, Queue Board paused (coming soon).",
-  "pub_date": "2026-10-24T16:50:51.173Z",
+  "version": "1.6.8",
+  "notes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
+  "pub_date": "2026-10-26T20:40:49.785Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3d5OEwxZnhWTlNEVFB2UXhUVlZrODJVVnF4d3VCRW1FQzBDR2oxMGtZalNiL3BZTUg1RVhJdERlUHkrbENSbExsaktmU2hUQlZwZEtONG54NlNkdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5NjM3CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negp6bXhvbjBrZk5EV0tXek0ySmMxcklIeVd2L1NNKzhHYlEvZDhzNnBDemo2RWpYYXVxelU0Z3pMTGNxN1RwUVVpcVc1Mnkxc3hMbDFzSXRkdVpyL1RDQT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.7-stage/Ordrili-Hub-mac-stage-1.6.7.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzg2b3NWUTdJTGswM0dXK3ZISWNlR2xQQktiWEhUOTV2QWE1TVlkUUViaTgvOU9aMWYxM3p2Nktqbm9LVTV1LzlwanY3Z1VKNUdPei9YRmtQamZNM0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYwNTk5CWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjdfeDY0LXNldHVwLmV4ZQoyU1J1TkJKMVlVQ0o1RTBWRHB1RHJabUx5V3pmMG1DSDAweHlISDViL1hzaUx5dU9veXFRZ1JXTWpRb0JDTVNiS2JQY3o1ODRRRDY3N0R4OE16bm1DUT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.7-stage/Ordrili-Hub-windows-stage-1.6.7-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzFCODlPS0hsZmY2dHpJb1hHcGNjVFRsd20ydm9YQWNHbTdRTy9hRnFFU0tRYnFEU2hYZkVRbUhwRDBhdWxNUHIyZXcwcmJGNm8vbE5EMnV1eTROS2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3MTMxCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negpXZUZ5WVhCYWoyV3RKZTd6WXkwSTRKVmRlM3dPd0dVL1kxTDhvVC9PQXJ2MzRvekFoVVYyU0UrMkFscU1nLzE1TmNWUVpLckQ2ZmlBdHZjMXNqZThCZz09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Hub-mac-stage-1.6.8.app.tar.gz"
     }
   }
 }
