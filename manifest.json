@@ -12,16 +12,16 @@
     "tag": "v1.6.10"
   },
   "spot": {
-    "versionName": "1.6.9",
-    "versionCode": 1006009,
+    "versionName": "1.6.10",
+    "versionCode": 1006010,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-11-01T09:39:40.057Z",
-    "releaseNotes": "Ordrili 1.6.9\n- Subscription & add-ons: see your plan and renew from the app (Subscription page, invoices, BaridiMob / Algérie Poste payments with proof upload).\n- Payments: payment records with history, edit/void, refunds; take payment on earlier days' unpaid orders.\n- Kitchen printing: printer or tablet kitchen mode, ticket text size, printing station on phones.\n- Spot: finds the Hub again after its network address changes; clear reconnect screen (Try again / Find the server / Reset) instead of an endless spinner.\n- Offline mode: calm \"Offline mode\" indicator when the internet drops — no reload prompts while the Hub keeps serving.\n- Windows Hub: discoverable on the network like on Mac.\n- Everyday polish: Tables and New Order layouts, boxed codes, How-To guide, menu photo cropping, and many fixes.",
+    "releasedAt": "2026-11-01T15:58:09.399Z",
+    "releaseNotes": "Ordrili 1.6.10\n- Subscription & add-ons: see your plan and renew from the app (Subscription page, invoices, BaridiMob / Algérie Poste payments with proof upload). New: tap-to-apply offers in the cart, and \"until my subscription ends\" now priced at the rate of the time left.\n- Payments: payment records with history, edit/void, refunds; take payment on earlier days' unpaid orders.\n- Kitchen printing: printer or tablet kitchen mode, ticket text size, printing station on phones.\n- Spot: finds the Hub again after its network address changes; clear reconnect screen (Try again / Find the server / Reset) instead of an endless spinner. New: an open kiosk, tablet or board goes to that screen as soon as the Hub disappears, and the Connect screen shows the server's real, live status.\n- Hub: pairing another restaurant starts clean, and asks first if unsent changes would be lost.\n- Tables: free again each new service day — the kiosk no longer shows tables taken by yesterday's orders.\n- Offline mode: calm \"Offline mode\" indicator when the internet drops — no reload prompts while the Hub keeps serving.\n- Windows Hub: discoverable on the network like on Mac.\n- Everyday polish: Tables and New Order layouts, boxed codes, How-To guide, menu photo cropping, a quieter \"Catch not active\" note, and many fixes.",
     "files": {
-      "android": "Ordrili-Spot-android-1.6.9.apk",
-      "mac": "Ordrili-Spot-mac-1.6.9.dmg",
-      "windows": "Ordrili-Spot-windows-1.6.9-setup.exe"
+      "android": null,
+      "mac": "Ordrili-Spot-mac-1.6.10.dmg",
+      "windows": null
     },
-    "tag": "v1.6.9"
+    "tag": "v1.6.10"
   }
 }
