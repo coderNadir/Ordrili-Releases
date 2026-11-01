@@ -20,7 +20,7 @@
     "files": {
       "android": "Ordrili-Spot-android-1.6.10.apk",
       "mac": "Ordrili-Spot-mac-1.6.10.dmg",
-      "windows": null
+      "windows": "Ordrili-Spot-windows-1.6.10-setup.exe"
     },
     "tag": "v1.6.10"
   }
