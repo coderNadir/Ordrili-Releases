@@ -1,15 +1,11 @@
 {
-  "version": "1.6.9",
-  "notes": "Ordrili 1.6.9\n- Subscription & add-ons: see your plan and renew from the app (Subscription page, invoices, BaridiMob / Algérie Poste payments with proof upload).\n- Payments: payment records with history, edit/void, refunds; take payment on earlier days' unpaid orders.\n- Kitchen printing: printer or tablet kitchen mode, ticket text size, printing station on phones.\n- Spot: finds the Hub again after its network address changes; clear reconnect screen (Try again / Find the server / Reset) instead of an endless spinner.\n- Offline mode: calm \"Offline mode\" indicator when the internet drops — no reload prompts while the Hub keeps serving.\n- Windows Hub: discoverable on the network like on Mac.\n- Everyday polish: Tables and New Order layouts, boxed codes, How-To guide, menu photo cropping, and many fixes.",
-  "pub_date": "2026-11-01T10:05:20.791Z",
+  "version": "1.6.10",
+  "notes": "Ordrili 1.6.10\n- Subscription & add-ons: see your plan and renew from the app (Subscription page, invoices, BaridiMob / Algérie Poste payments with proof upload). New: tap-to-apply offers in the cart, and \"until my subscription ends\" now priced at the rate of the time left.\n- Payments: payment records with history, edit/void, refunds; take payment on earlier days' unpaid orders.\n- Kitchen printing: printer or tablet kitchen mode, ticket text size, printing station on phones.\n- Spot: finds the Hub again after its network address changes; clear reconnect screen (Try again / Find the server / Reset) instead of an endless spinner. New: an open kiosk, tablet or board goes to that screen as soon as the Hub disappears, and the Connect screen shows the server's real, live status.\n- Hub: pairing another restaurant starts clean, and asks first if unsent changes would be lost.\n- Tables: free again each new service day — the kiosk no longer shows tables taken by yesterday's orders.\n- Offline mode: calm \"Offline mode\" indicator when the internet drops — no reload prompts while the Hub keeps serving.\n- Windows Hub: discoverable on the network like on Mac.\n- Everyday polish: Tables and New Order layouts, boxed codes, How-To guide, menu photo cropping, a quieter \"Catch not active\" note, and many fixes.",
+  "pub_date": "2026-11-01T15:56:34.167Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQytpK3loMm1QbDJERGptdmExMm9mYW1QYXEwbUpQTVVvaFE1SmZYZ1h4dDhMSEZ0M3FpZG5iVUVGZDdkdDlmVE0zczlrUEgreVRxYjN3KzYvQWxtQndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI1MTQyCWZpbGU6T3JkcmlsaSBIdWIuYXBwLnRhci5negpxR0hqL0NESldsN0VWenFtTjhieFRXaFJ5bTVhWWVNTUgrS2ZjRnZTOVJmVTlqZE00aVNsWEdQaFZlREF0bUl3OHEzU25yT0R2SERDangrMXYzaENCQT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.9/Ordrili-Hub-mac-1.6.9.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzY5eEFlbmowWTBGdnZRSmcwVXg3RVhFUWNnWEhFNVRxZ2FhUXZvYkM3OWU3TjJRVW82dHU4VTdjZWYvVnNqdzlzclRmbHZBSzNWcm5GZENrK0NEVWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI2Nzg3CWZpbGU6T3JkcmlsaSBIdWJfMS42LjlfeDY0LXNldHVwLmV4ZQpyTk95STM5YXRIVU1DcGhidnBsQ0g0TjJSQUxwODNXUTUzbk1aUXJUKzJlR0E3U3BTNWFvNjNUblJWaGRyOEtKTDVYNXFIVko4RkpTN0V3UkJGbXJDQT09Cg==",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.9/Ordrili-Hub-windows-1.6.9-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzhjVkFOQkdIcXJzdFZIMFduaDFibXlVYXM1WjczV0FZbm9FOFpKTHlZbGtzMFRNZ3JqRGZGNXU4VWNBckY4dG9lMVZUakQ5Rm1NTENEL0ZPZTE0R0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ4NTMwCWZpbGU6T3JkcmlsaSBIdWIuYXBwLnRhci5negpxMTE0OTVjb0NBdEkxNzJMcDI2Q0J3U1Z0V3crSERYU0JvQ1NaK0x6RWpoRXZYZWlsbzdKcnpGMkNmUzBHVkVPaDlMRENoUFlnanVoQWR3S3RUa3lDUT09Cg==",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.10/Ordrili-Hub-mac-1.6.10.app.tar.gz"
     }
   }
 }
