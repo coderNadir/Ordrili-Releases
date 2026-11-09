@@ -1,14 +1,14 @@
 {
   "hub": {
-    "versionName": "1.6.8",
-    "versionCode": 1006008,
+    "versionName": "1.6.12",
+    "versionCode": 1006012,
     "minSupportedVersionCode": null,
-    "releasedAt": "2026-10-26T20:40:50.253Z",
-    "releaseNotes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page, Windows Hub: phones can find it by search again",
-    "tag": "v1.6.8-stage",
+    "releasedAt": "2026-11-09T19:31:28.834Z",
+    "releaseNotes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
+    "tag": "v1.6.12-stage",
     "files": {
-      "mac": "Ordrili-Hub-mac-stage-1.6.8.dmg",
-      "windows": "Ordrili-Hub-windows-stage-1.6.8-setup.exe"
+      "mac": "Ordrili-Hub-mac-stage-1.6.12.dmg",
+      "windows": null
     }
   },
   "spot": {
