@@ -19,7 +19,7 @@
     "releaseNotes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
     "tag": "v1.6.12-stage",
     "files": {
-      "android": null,
+      "android": "Ordrili-Spot-android-stage-1.6.12.apk",
       "mac": "Ordrili-Spot-mac-stage-1.6.12.dmg",
       "windows": null
     }
