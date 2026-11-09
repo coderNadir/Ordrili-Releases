@@ -1,15 +1,11 @@
 {
-  "version": "1.6.8",
-  "notes": "Kiosk edit-order freeze fixed, real loading spinner on buttons, blinking caret in code boxes, download links fall back to the releases page",
-  "pub_date": "2026-10-26T21:10:33.163Z",
+  "version": "1.6.12",
+  "notes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
+  "pub_date": "2026-11-09T19:33:13.145Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQy8xWE4vMDcxSzVOVUIrYUo4YldYRUlSeXdSY21uU2ZLQUZrRGV6QzR3RlZZRk1qcFBoZFlLRE45c3NXT1ZoVkJsNDFDV3VSYmVXOE5BaFRBQkREc0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ2ODI2CWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKeU1GSTcvdjVtUmRweVZ4TkFPVHBaV3A1MTBXUzVwMUxPL2FJQzFMY1Nvb2xBQ0U0MVBqT2FYNG1kYjkwMG1iOEM1TW96MGxBTmhSMGE5bU10WldIQUE9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Spot-mac-stage-1.6.8.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzcyc1pHNUIyUDVzUzAzaTI0MXR4WnB3Zmt4Wm1pUUYwcnpSa3ZEd0tLTHFQa1I5cUtXWWxteTJqNGp0WElHb3VCVkcrVXRrTUNVSVNYS0RIZENsWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ5MDE0CWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlXzEuNi44X3g2NC1zZXR1cC5leGUKTy9CQTJwZmdFSHZtM2tTbXZmaTdUSTA5SkVOemN4amFxOE55S05aenF1L1ZhSFNnQlFtVW9maW9TNllvcDREZk5iM1kwZE8xV0tJUkJIK2ZtY0JzQ2c9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.8-stage/Ordrili-Spot-windows-stage-1.6.8-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzlMUHg4OFRkcktMbjJaRDBGVGtOVjMrK0NHNkpsdFV4dlBzN0Y4SWtZRXU3SnJqWHVORkJDYXdOOElVTkcvYW12ZXJzVWtlYXVtdG1pc2lkVHoxR0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUyNzgwCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKbFhMbk9jZ2tJK3lDVnJtbWRYd01FbEFRTy9XM2hjNXBCeTdmenNoZmZhaHVXaHlMekZwZVJNakxkbTFQekl3MzlKYjN5d2FEN2xzVW1LdVRtdi9HQnc9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12-stage/Ordrili-Spot-mac-stage-1.6.12.app.tar.gz"
     }
   }
 }
