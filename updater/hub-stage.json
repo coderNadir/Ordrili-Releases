@@ -1,11 +1,15 @@
 {
   "version": "1.6.12",
   "notes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
-  "pub_date": "2026-11-09T19:31:25.699Z",
+  "pub_date": "2026-11-09T20:14:30.118Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzlCY3Y3VElBbW5HUnljcnN6azNYaExIa0hLN09JNy9zV0ZhNWZ4cjB5ZExRYjV0WVQ3YnBxVy9rdHJ5dEYzVVY1MkY4TzJSbG1pUE1YSVZISFJPN1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUyNDkzCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2UuYXBwLnRhci5negppcXBRUnZ5SVNydUNDODYzRjZISkxmeVZ4WG1CejI2TmxRT2EyL3MyRXRVd1FyMzBLcVIrMWlYMWRlQjMyVDV5R0dieHpPTjFvRmlvdXJlRG5oMjhBUT09Cg==",
       "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12-stage/Ordrili-Hub-mac-stage-1.6.12.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzFTczFlWnk2bXZvVzBBZDJqVWNkcjBWbS81cThQQjZmditUTVRiVmpqZUp0QzhMK0tRQlhIaks2a05pTDdhdGpONEFSYmpsTXBhc24wZXZJQm5nMkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU0NTQyCWZpbGU6T3JkcmlsaSBIdWIgU3RhZ2VfMS42LjEyX3g2NC1zZXR1cC5leGUKYTk4aXg0UUNHVHlmaVNqeDZqNUM4S09ralBoMktxY0poOUQxcGc2WkI0d3VKS1hWZGJOajNPRFIzeVJhL0pTSDE0SnNIZC9YTEF6bTY4RXVBNGZlRHc9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12-stage/Ordrili-Hub-windows-stage-1.6.12-setup.exe"
     }
   }
 }
