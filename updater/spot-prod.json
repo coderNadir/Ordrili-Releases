@@ -1,11 +1,15 @@
 {
   "version": "1.6.12",
   "notes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
-  "pub_date": "2026-11-09T21:06:01.476Z",
+  "pub_date": "2026-11-09T21:33:36.942Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzJsSkNuWllwYlBOYk80NlNaTCtMYk02NDQxSTZRRlIxL3M1aG9DQTVMZkdtdjg2SDRRN1daM1MreThyL0Rhck9iT3ZOTkd6b3RQUnUxQWpYazFBelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4MzUwCWZpbGU6T3JkcmlsaSBTcG90LmFwcC50YXIuZ3oKZGVxWDRjNjFvSTJiS3ZvNURQT09URXVJUkZOOWIxU1BFaEFMS3VoMnhrZVBVNks5RlNqcS9NbWNQbEpsMENGakcvd0pIaDFIU1IvaWFuZjlWeXBvQXc9PQo=",
       "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12/Ordrili-Spot-mac-1.6.12.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzl2dlFOcTFWdERTMHdkeDVzUWl5RVJZZ3dHS1RORC94b2tYNW83dSt5Um5sRWtPNmtMTjFQdElCUjJ4VyszZ3RhMkM4VWVyNW4vVVhHR1pxRnpBbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYwMDAzCWZpbGU6T3JkcmlsaSBTcG90XzEuNi4xMl94NjQtc2V0dXAuZXhlCmV3Nmg2R0h4SFpFT2FndHVaUE13NnQ3NVlzRTlpWEpxU1Q3TzUzOThCZkFiSnRhazcySzNHbGoxWDFxaDRGWkpSRXg0Z1RuY3hwN3ZUaVB4Q2hoVkF3PT0K",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12/Ordrili-Spot-windows-1.6.12-setup.exe"
     }
   }
 }
