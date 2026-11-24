@@ -1,15 +1,11 @@
 {
-  "version": "1.6.12",
-  "notes": "Ordrili 1.6.12\n- Pricing: the chef board and queue board are included in every plan; add-ons have one flat price per period and renew together with your subscription.\n- Menu: import a whole menu from photos or a PDF; a guided item form (3 steps, a publish checklist, AI that previews before it fills); save a dish as a draft with just a name and a category.\n- Quick notes: tap-chips for common kitchen requests (\"No mayo\") on every ordering screen and on tickets.\n- Cancel reasons: add your own and hide the ones you don't use.\n- Printing: auto-print tickets after an order or a payment; reprint a payment ticket from Payment History; restaurants choose whether kiosk customers can print.\n- Order details: one card per round with a clear header, and the total shown once.\n- Arabic: better translation, left/right wording that matches each language, and Arabic customer names no longer print as \"???\".\n- Safety: Hub and cloud hardening; a lapsed add-on or licence never unpairs a kiosk or tablet.",
-  "pub_date": "2026-11-09T20:16:32.681Z",
+  "version": "1.6.13",
+  "notes": "Ordrili 1.6.13\n- Drinks on the menu: Dish/Drink items with brand and sizes (\"Pepsi · 33 cl\"), an Import drinks catalog with photos, prices per size and the drink's category added from the pick.\n- Items grid: draft and paused cards read as not live; cards follow the category order.\n- Paid refunds and wasted food: refunds mark orders Refunded, the kitchen question on cancel/edit, a Wasted card on Profit.\n- Order details redesign and Settings sub-navigation (Restaurant, Staff, …).\n- Printer-mode kitchen: rounds, UPDATED and CANCELLED tickets on the Hub printer; Spot stays quiet when the Hub prints.\n- Kiosk and tablet attract screens carry the restaurant's brand; kiosk edit window setting.\n- Restaurant phone on the profile; QA fixes across orders, payments and rounds.",
+  "pub_date": "2026-11-24T19:53:43.813Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzlMUHg4OFRkcktMbjJaRDBGVGtOVjMrK0NHNkpsdFV4dlBzN0Y4SWtZRXU3SnJqWHVORkJDYXdOOElVTkcvYW12ZXJzVWtlYXVtdG1pc2lkVHoxR0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUyNzgwCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKbFhMbk9jZ2tJK3lDVnJtbWRYd01FbEFRTy9XM2hjNXBCeTdmenNoZmZhaHVXaHlMekZwZVJNakxkbTFQekl3MzlKYjN5d2FEN2xzVW1LdVRtdi9HQnc9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12-stage/Ordrili-Spot-mac-stage-1.6.12.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQy9rbWlVZUgwa2FRZkMySHJvclFnc1NJNDVDaTQ1aEZNcFdxYklJNnVaaWlFdXFpVGFNTFpZZWx2S3BzUHJOTFBuM0hGb2JCanNLVkZLVmFBQjJhRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MzcwCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlXzEuNi4xMl94NjQtc2V0dXAuZXhlCjBLUXU5bnlOVXp2bDREaFpBTnMzZkZtTFZUVzFtTTRzTzIzd1JHbis1SkdidG9Da1NnMHdOMVhmQUtYbnMvTHorUDBFL0M1V0o1dmhISk5RcFRKNkJnPT0K",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.12-stage/Ordrili-Spot-windows-stage-1.6.12-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzBpbGtqN2RzSW1sNkdlM0wxUjJpY0xiK25yRFBhWmgyMlVPUTlDRndUaWwzM3ZuL0J0NG5ZSC93dVdCWlkxYlQ3QUhyRThoRWowUUZHVG5ad2hjblEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTUwMDAyCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKbFpudHlFMHB5a1oyTzg2dW9SL0R0WHJya0hPQ01zOFZzbEZpcW9Xdk55T0NWeHUwT0tJeFBIYzROSVd2TW5XTTk0SVIvWDk4bHkzbWY4TVd3M2ZrQlE9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.13-stage/Ordrili-Spot-mac-stage-1.6.13.app.tar.gz"
     }
   }
 }
