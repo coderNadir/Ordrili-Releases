@@ -18,7 +18,7 @@
     "releasedAt": "2026-11-25T20:37:14.585Z",
     "releaseNotes": "Ordrili 1.6.14\n- Drinks on the menu: Dish/Drink items with brand and sizes (\"Pepsi · 33 cl\"), an Import drinks catalog with photos and prices per size; the drink's category is added from the pick.\n- Built-in categories are managed by Ordrili; Water and Energy drinks added.\n- Auto-print has a real on/off switch: off means nothing prints, on brings your last pick back.\n- Notifications stack in the corner and say which order changed and how (\"Order #7 · Table 12 — Now Served\").\n- Paid refunds and wasted food: refunds mark orders Refunded, the kitchen question on cancel/edit, a Wasted card on Profit.\n- Order details redesign, Settings sub-navigation, and draft/paused items that read as not live.\n- Printer-mode kitchen: rounds, UPDATED and CANCELLED tickets on the Hub printer; Spot stays quiet when the Hub prints.\n- Kiosk and tablet attract screens carry the restaurant's brand; restaurant phone on the profile; QA fixes across orders, payments and rounds.",
     "files": {
-      "android": null,
+      "android": "Ordrili-Spot-android-1.6.14.apk",
       "mac": "Ordrili-Spot-mac-1.6.14.dmg",
       "windows": null
     },
