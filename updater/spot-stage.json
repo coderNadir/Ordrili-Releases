@@ -1,11 +1,11 @@
 {
-  "version": "1.6.13",
-  "notes": "Ordrili 1.6.13\n- Drinks on the menu: Dish/Drink items with brand and sizes (\"Pepsi · 33 cl\"), an Import drinks catalog with photos, prices per size and the drink's category added from the pick.\n- Items grid: draft and paused cards read as not live; cards follow the category order.\n- Paid refunds and wasted food: refunds mark orders Refunded, the kitchen question on cancel/edit, a Wasted card on Profit.\n- Order details redesign and Settings sub-navigation (Restaurant, Staff, …).\n- Printer-mode kitchen: rounds, UPDATED and CANCELLED tickets on the Hub printer; Spot stays quiet when the Hub prints.\n- Kiosk and tablet attract screens carry the restaurant's brand; kiosk edit window setting.\n- Restaurant phone on the profile; QA fixes across orders, payments and rounds.",
-  "pub_date": "2026-11-24T19:53:43.813Z",
+  "version": "1.6.14",
+  "notes": "Ordrili 1.6.14\n- Auto-print has a real on/off switch: off means nothing prints, on brings your last pick back.\n- Notifications stack in the corner: repeats merge (×N), hover or \"Show all\" opens them as a list.\n- Status notifications say which order and what changed (\"Order #7 · Table 12 — Now Served\").\n- Built-in categories are managed by Ordrili; Water and Energy drinks added.\n- Import drinks: when the drink's category isn't on the menu yet, a hint adds it first.",
+  "pub_date": "2026-11-25T19:27:14.615Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzBpbGtqN2RzSW1sNkdlM0wxUjJpY0xiK25yRFBhWmgyMlVPUTlDRndUaWwzM3ZuL0J0NG5ZSC93dVdCWlkxYlQ3QUhyRThoRWowUUZHVG5ad2hjblEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTUwMDAyCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKbFpudHlFMHB5a1oyTzg2dW9SL0R0WHJya0hPQ01zOFZzbEZpcW9Xdk55T0NWeHUwT0tJeFBIYzROSVd2TW5XTTk0SVIvWDk4bHkzbWY4TVd3M2ZrQlE9PQo=",
-      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.13-stage/Ordrili-Spot-mac-stage-1.6.13.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzY4djFJOHovWXY3U1o5c0lYbWNmaC8yY1ZnbjBEdndkWGJkWTNYWXRYVWROUytkUEx1Y3RFeE1iOU44NGwycTAvQXFna0t4c3hqcG9oSDFDQktRcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjM0ODIzCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKSGR6M1VWdDZUR3FKK0ZlaXNrYUtYWlp1U0NXc3ZhRmJEb2dlTEtYR3Z5bUpTQlZGYUVWL0N2VEczMUU5VEVSV1lTTDdma1IyZGRLV09LOWF5VElhRHc9PQo=",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.14-stage/Ordrili-Spot-mac-stage-1.6.14.app.tar.gz"
     }
   }
 }
