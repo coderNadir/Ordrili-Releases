@@ -19,7 +19,7 @@
     "releaseNotes": "Ordrili 1.6.14\n- Auto-print has a real on/off switch: off means nothing prints, on brings your last pick back.\n- Notifications stack in the corner: repeats merge (×N), hover or \"Show all\" opens them as a list.\n- Status notifications say which order and what changed (\"Order #7 · Table 12 — Now Served\").\n- Built-in categories are managed by Ordrili; Water and Energy drinks added.\n- Import drinks: when the drink's category isn't on the menu yet, a hint adds it first.",
     "tag": "v1.6.14-stage",
     "files": {
-      "android": null,
+      "android": "Ordrili-Spot-android-stage-1.6.14.apk",
       "mac": "Ordrili-Spot-mac-stage-1.6.14.dmg",
       "windows": null
     }
