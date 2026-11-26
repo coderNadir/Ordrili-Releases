@@ -1,11 +1,15 @@
 {
   "version": "1.6.14",
   "notes": "Ordrili 1.6.14\n- Auto-print has a real on/off switch: off means nothing prints, on brings your last pick back.\n- Notifications stack in the corner: repeats merge (×N), hover or \"Show all\" opens them as a list.\n- Status notifications say which order and what changed (\"Order #7 · Table 12 — Now Served\").\n- Built-in categories are managed by Ordrili; Water and Energy drinks added.\n- Import drinks: when the drink's category isn't on the menu yet, a hint adds it first.",
-  "pub_date": "2026-11-25T19:27:14.615Z",
+  "pub_date": "2026-11-26T18:47:41.004Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQzY4djFJOHovWXY3U1o5c0lYbWNmaC8yY1ZnbjBEdndkWGJkWTNYWXRYVWROUytkUEx1Y3RFeE1iOU44NGwycTAvQXFna0t4c3hqcG9oSDFDQktRcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjM0ODIzCWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlLmFwcC50YXIuZ3oKSGR6M1VWdDZUR3FKK0ZlaXNrYUtYWlp1U0NXc3ZhRmJEb2dlTEtYR3Z5bUpTQlZGYUVWL0N2VEczMUU5VEVSV1lTTDdma1IyZGRLV09LOWF5VElhRHc9PQo=",
       "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.14-stage/Ordrili-Spot-mac-stage-1.6.14.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0FqWU9BdjFlQ3hnMUVHaHZFb0l0VVRjMUhROUhIYVV0K3RuT3prdng2cW1PcGhMTlVLdnNTQkxGZGI3eFBDanNuaHRaM1E4akZ2ejZpTWlENFNtcWxRZGlSbWQwclFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzE3MzI3CWZpbGU6T3JkcmlsaSBTcG90IFN0YWdlXzEuNi4xNF94NjQtc2V0dXAuZXhlCmowdnp0TFFRMEF6U21UbmV1cnBUOTJlYldTSEV0SFpYZUliM1owekNoUFhpODV6Yyt3WUdDNXQ4b2xzUUFUR3ZwSmxsZTVrdjBDVURPTm5wZnRhekRBPT0K",
+      "url": "https://github.com/coderNadir/Ordrili-Releases/releases/download/v1.6.14-stage/Ordrili-Spot-windows-stage-1.6.14-setup.exe"
     }
   }
 }
